@@ -11,7 +11,6 @@ Welcome to Snake Game! This is a simple implementation of the classic Snake game
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
